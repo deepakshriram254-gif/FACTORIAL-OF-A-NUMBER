@@ -55,10 +55,9 @@ END
 OUTPUT
 ![FACTORIAL](https://github.com/user-attachments/assets/164da0e8-ce80-4ffd-b397-4e81f1d29da7)
 
----
-MANUAL CALCULATIONS
+MANUAL CALCULATION
 
----
+![CALCULATION](https://github.com/user-attachments/assets/db3be56d-dcaa-49af-bfc1-9ac040e78829)
 
 RESULT
 
