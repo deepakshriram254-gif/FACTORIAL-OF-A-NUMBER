@@ -54,7 +54,8 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+![Uploading FACTORIAL.jpeg…]()
+
 
 ---
 MANUAL CALCULATIONS
